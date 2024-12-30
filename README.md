@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 BMI Calculator and Movie Recommendation App
 
 Project Overview
@@ -92,6 +91,3 @@ Access the application via:
 
 http://localhost:3000/bmi for BMI Calculator.
 http://localhost:3000/movies for Movie Recommendations.
-=======
-# webt
->>>>>>> 2d2f919e84c46a0951c5440a6b5413b08242f812
